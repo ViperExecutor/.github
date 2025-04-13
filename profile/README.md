@@ -23,7 +23,6 @@ Welcome to **Viper**, your go-to tool for injecting and executing scripts in Rob
 - You are responsible for your own actions.
 - We have no obligation to support minor or personal issues.
 - By using this service, you agree to these terms.
-- 
 ---
 
 Thank you for choosing Viper! Happy exploiting!
